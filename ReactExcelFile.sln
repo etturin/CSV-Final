@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactExcelFile.Web", "ReactExcelFile.Web\ReactExcelFile.Web.csproj", "{05587BA4-BA06-4C5B-810D-BA4B64A35350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactExcelFile.Data", "ReactExcelFile.Data\ReactExcelFile.Data.csproj", "{929D490F-0BD0-467F-B596-E96E8F3FBBE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05587BA4-BA06-4C5B-810D-BA4B64A35350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05587BA4-BA06-4C5B-810D-BA4B64A35350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05587BA4-BA06-4C5B-810D-BA4B64A35350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05587BA4-BA06-4C5B-810D-BA4B64A35350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{929D490F-0BD0-467F-B596-E96E8F3FBBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929D490F-0BD0-467F-B596-E96E8F3FBBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929D490F-0BD0-467F-B596-E96E8F3FBBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929D490F-0BD0-467F-B596-E96E8F3FBBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADDD3242-9E05-4BFF-9968-07AC4B13172C}
+	EndGlobalSection
+EndGlobal
